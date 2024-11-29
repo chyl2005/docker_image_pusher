@@ -13,4 +13,4 @@ aapache/rocketmq:5.3.1
 #代理池
 jhao104/proxy_pool:latest
 #redis
-docker.io/redis:6.0
+redis:6.0
