@@ -12,3 +12,5 @@ apache/rocketmq:5.3.1
 jhao104/proxy_pool:latest
 #redis
 redis:6.0
+#代理池
+chyl2005/proxy_pool:latest
