@@ -8,8 +8,6 @@ xhofe/alist:latest
 whyour/qinglong:latest
 #rocketmq
 apache/rocketmq:5.3.1
-#代理池
-jhao104/proxy_pool:latest
 #redis
 redis:6.0
 #代理池
